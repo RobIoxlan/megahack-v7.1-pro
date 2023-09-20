@@ -1,0 +1,1 @@
+this is a free vesrion of megahack and all you need to do is drag it in the geometry dash folder. (works on steam)
